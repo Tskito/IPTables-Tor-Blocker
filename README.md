@@ -1,6 +1,5 @@
 # IPTables-Tor-Blocker
-Bash cript to block whole tor network with iptables
-
+Bash script to block whole tor network with iptables
 
 Usage:
 

@@ -8,6 +8,7 @@ First we need new chain
 iptables -N blockit
 
 change change $1 with global ip in hostip=$1 or run it as
+
 sh blockit.sh Global-IP-HERE
 
 You can get your global ip with 
